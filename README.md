@@ -14,7 +14,7 @@ A professional full-stack web application built with **Laravel**, **Blade**, **T
 Perfect for showcasing authentication, responsive design, and CRUD operations.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m-coded/new-project/main/public/images/screenshot.png" alt="App Screenshot" width="600"/>
+  <img src="https://raw.githubusercontent.com/m-coded/new-project/main/public/images/Screenshot.png" alt="App Screenshot" width="600"/>
 </p>
 
 ## ✨ Features
