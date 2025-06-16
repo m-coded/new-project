@@ -34,7 +34,7 @@ Perfect for showcasing authentication, responsive design, and CRUD operations.
 
 | Login Page | Dashboard |
 |------------|-----------|
-| ![Login](public/images/login-screenshot.png) | ![Dashboard](public/images/2025.png) |
+| ![Login](public/images/login.png) | ![Dashboard](public/images/2025.png) |
 
 ---
 
