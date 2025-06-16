@@ -10,7 +10,7 @@
 
 # 🚀 New Project – Laravel Full-Stack App
 
-A professional full-stack web application built with **Laravel**, **Blade**, **Tailwind CSS**, and modern best practices.  
+A professional full-stack payment reminder  web application built with **Laravel**, **Blade**, **Tailwind CSS**, and modern best practices.  
 Perfect for showcasing authentication, responsive design, and CRUD operations.
 
 <p align="center">
