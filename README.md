@@ -61,6 +61,8 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+----
+
 new-project/
 ├── app/               # Core application logic
 ├── resources/views/   # Blade templates
@@ -71,7 +73,6 @@ new-project/
 php artisan test
 
 🌍 Live Demo (Optional)
-If deployed, add your link here.
 
 🔗 Live Demo
 
@@ -80,9 +81,9 @@ This project is licensed under the MIT License.
 See the LICENSE file for more info.
 
 🙋 About Me
-👤 [Your Name]
-📧 Email: your@email.com
-🔗 Portfolio Website | LinkedIn | GitHub
+👤 [marvel]
+📧 Email: marvez@protonmail.com
+
 
 
 
